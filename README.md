@@ -1,36 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Document</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <link href="style.css" rel="stylesheet" type="text/css">
-    
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" type="text/javascript"></script>
-    <script>
-        $(document).ready(function(){
-        $("#div1").hide();
-        $("#button").click(function(){
-            $("#div1").toggle(1000);
-        });
-    });
-</script>
-    
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
 
-<div class="row">
-    <div class="col-xs-4">
-      <button class="btn btn-block btn-primary" id=a><i class="fa fa-thumbs-up"></i> Like</button>
-    </div>
-    <div class="col-xs-4">
-      <button class="btn btn-block btn-info" ><i class="fa fa-info-circle"></i>Info</button>
-    </div>
-    <div class="col-xs-4">
-      <button class="btn btn-block btn-danger"><i class="fa fa-trash"></i>Delete</button>
-    </div>
-</div
 hello
 
